@@ -65,4 +65,3 @@ MIT License.
 
 ---
 
-This version of the module is now optimized and well-documented for production use. Let me know if any further enhancements are needed.
